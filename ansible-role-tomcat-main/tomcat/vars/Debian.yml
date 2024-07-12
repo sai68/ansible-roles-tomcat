@@ -1,0 +1,3 @@
+---
+# vars file for tomcat
+JAVA_HOME: /usr/lib/jvm/default-java
